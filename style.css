@@ -38,7 +38,7 @@ h2{
 
 #aboutme{
   height: 150px;
-  weight:100%;
+  width:100%;
   background-color: rgb(247, 237, 237);
   margin-top: 25px;
   margin-left: 80px;
@@ -58,7 +58,7 @@ h2{
 #education{
 background-color: skyblue;
   height: 150px;
-  weight:100%;
+  width:100%;
   margin-top: 25px;
   margin-left: 80px;
   margin-right: 80px;
@@ -68,8 +68,3 @@ background-color: skyblue;
     padding-top: 20px;
   }
   
-#college{
-  background-color: white;
-  
-
-}
