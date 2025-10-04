@@ -56,17 +56,192 @@ h2{
 }
 
 #education{
-background-color: skyblue;
+background-color: rgb(159, 208, 228);
   height: 170px;
   width:90%;
   margin-top: 25px;
   margin-left: 80px;
   margin-right: 80px;
-}
 
+  
   h1{
     text-align: center;
     padding-top: 20px;
   }
+  #college{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+   
+  #school{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+
+} }
+
+ #skills{
+  background-color: rgb(224, 227, 186);
+  height: 300px;
+  width:90%;
+  margin-top: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
+
   
+  h1{
+    text-align: center;
+    padding-top: 20px;
+  }
+  #dev{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  #java{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  #nextjs{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  #uxui{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+
+}
+#projects{
+  background-color: rgb(211, 188, 228);
+  height: 300px;
+  width:90%;
+  margin-top: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
+
   
+  h1{
+    text-align: center;
+    padding-top: 20px;
+  }
+  #project1{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  #project2{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  #project3{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+
+}
+#contact{
+  background-color: rgb(176, 226, 176);
+  height: 250px;
+  width:90%;
+  margin-top: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
+  
+
+  
+  h1{
+    text-align: center;
+    padding-top: 20px;
+  }
+  #email{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  #phone{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  #insta{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+
+}
